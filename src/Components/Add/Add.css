@@ -1,0 +1,28 @@
+#todoname {
+  margin-bottom: 2%;
+}
+
+input {
+  border: 1px solid #000;
+}
+table {
+  margin: auto;
+  background-color: white;
+  padding: 20px;
+  width: 100%;
+}
+.rdtCounters {
+  display: flex;
+  justify-content: center;
+}
+
+.rdtDays tr td:hover {
+  background: rgba(0, 0, 0, 0.5);
+  color: white;
+  scale: 0.2;
+}
+.rdtTimeToggle:hover,
+.rdtSwitch:hover {
+  background-color: wheat;
+  color: #000;
+}
