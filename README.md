@@ -1,5 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Todo List App
+Built a ToDo list webapp using React
+
+- Created a form to add a task along with an optional completion date and time
+- Listed all the  Added ToDo items. (Preferably filtered by completed and pending status by a toggle)
+- Added checkbox for each task  to update the status to "completed".
+- Sorted the list of tasks by date and time.
+- Deletion of tasks by clicking the delete icon.
+- Display the added tasks and pending tasks even if the page is refreshed.
+
 ## Available Scripts
 
 In the project directory, you can run:
